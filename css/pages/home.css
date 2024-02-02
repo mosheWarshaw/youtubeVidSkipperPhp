@@ -1,0 +1,23 @@
+article{
+    margin-top: 30vh;
+}
+
+#instructions1, #instructions2{
+    display: flex;
+    justify-content: center;
+    margin-right: 15vw;
+    margin-left: 15vw;
+    text-align: center;
+}
+
+#slideshow{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    list-style: none;
+}
+
+#img1, #img2, #img3{
+    height: 150px;
+    width: 300px;
+}

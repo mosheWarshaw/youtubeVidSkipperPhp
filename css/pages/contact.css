@@ -1,0 +1,16 @@
+#redirectMessage{
+    display: flex;
+    justify-content: center;
+    margin-top: 30vh;
+}
+
+article{
+    margin-top: 30vh;
+    width: 100vw;
+}
+
+#submitButton, #textareaDiv{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}

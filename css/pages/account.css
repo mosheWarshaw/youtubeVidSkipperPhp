@@ -1,0 +1,18 @@
+article{
+    margin-top: 30vh;
+    width: 100vw;
+}
+
+#creatingAccount, #username, #password, #submitButtonDiv{
+    margin-bottom: 5px;
+}
+
+#loggingIn, #creatingAccount, #username, #password, #submitButtonDiv{
+    display: flex;
+    justify-content: center;
+}
+
+#formSubmissionResponse{
+    display: flex;
+    justify-content: center;
+}
